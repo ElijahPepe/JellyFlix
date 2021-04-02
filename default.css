@@ -147,7 +147,7 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
   }
 }
 .skinHeader-withBackground {
-  background-color: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0)) !important;
+  background: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0)) !important;
 }
 
 /*Theming Indicators*/
@@ -690,11 +690,10 @@ h2 {
 }
 /* Top menu transparency */
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
-  background:none;
-  background-color: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0)) !important;
+  background: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0)) !important;
 }
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred.noHomeButtonHeader {
-  background-color: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0)) !important;
+  background: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0)) !important;
 }
 .playedIndicator {
   background: var(--accent);
