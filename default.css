@@ -17,6 +17,11 @@
   user-select: none; /* Non-prefixed version, currently
                        supported by Chrome, Edge, Opera and Firefox */
 }
+
+.pageTitleWithDefaultLogo {
+  background-image: url("https://elijahpepe.github.io/JellyFlix/img/Logo.png");
+}
+
 /*fieldset*/
 fieldset.verticalSection.verticalSection-extrabottompadding {
   border-radius: var(--rounding);
