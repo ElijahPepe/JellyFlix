@@ -162,10 +162,10 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
   box-shadow: 0 0 15px -2px black;
 }
 button.emby-tab-button.emby-button.emby-tab-button-active:hover {
-  color: var(--accent) !important;
+  color: #fff !important;
 }
 .emby-tab-button.show-focus:focus, .emby-tab-button:hover {
-  color: var(--accent) !important;
+  color: #b3b3b3 !important;
 }
 
 /*Theming Title Page*/
@@ -647,6 +647,7 @@ h2 {
 }
 .emby-tab-button {
   padding: 1.75em 1.7em;
+  color: #e5e5e5;
 }
 
 /*Blur backdrops, feel free to edit the intensity of the filter values*/
