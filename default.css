@@ -110,7 +110,6 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
 #itemDetailPage {
   margin-top: 60px;
   padding-top: 0px !important;
-  overflow: scroll;
 }
 
 @media all and (min-width: 100em){
@@ -120,7 +119,6 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
   #musicRecommendedPage {
     margin-top: 70px;
     padding-top: 0px !important;
-    overflow: scroll;
   }
   #encodingSettingsPage,
   #mediaLibraryPage,
@@ -128,7 +126,6 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
   #pluginsPage {
     margin-top: 60px;
     padding-top: 0px !important;
-    overflow: scroll;
   }
 }
 
